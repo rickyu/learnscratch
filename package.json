@@ -1,0 +1,22 @@
+{
+  "name": "glearn",
+  "version": "1.0.0",
+  "description": "gamification",
+  "private": true,
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "learn"
+  ],
+  "author": "yuzuo",
+  "license": "ISC",
+  "devDependencies": {
+    "scratch-blocks": "0.1.0-prerelease.1526924782",
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
